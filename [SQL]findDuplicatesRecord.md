@@ -1,4 +1,4 @@
-```rb
+```sql
 sql = <<-SQL
 SELECT
     name, venue_id, COUNT(*)
